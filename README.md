@@ -1,40 +1,29 @@
-## Hi there 👋 I'm Ebad Rehman
+<h1 align="center">Hi 👋, I'm Ebad ur Rehman</h1>
+<h3 align="center">A passionate software engineering student from Calgary, AB</h3>
 
-### 🚀 Software Engineering Student | Embedded Systems & OOP Interests
+- 🔭 I’m currently working on [a ML-trained FightMetrics application used by athletes to hone their skills and identify weaknesses in training](github.com/ebadr761/mma-tracker)
 
-I am an engineering student with a focus on **Systems Programming** and **Object-Oriented Design**.
+- 🌱 I’m currently learning **TypeScript in order to improve upon my portfolio website**
 
-I am actively seeking **Software Engineering Internships for Summer 2026**.
+- 👯 I’m looking to collaborate on **any sort of meaningful embedded, system-oriented or OOP-based work — message me if you want to work together!**
 
-- 🔭 **I’m currently working on ...**
-  - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
-  - Dripping my toes into **web development** using tools like JavaScript in order to showcase my work thus far.
-  - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
+- 👨‍💻 All of my projects are available at [ebad.tech](ebad.tech)
 
-- 🛠 **My Technical Stack**
-  - **Core Languages:** `C++`, `Java`, `C`, `Python`, `JavaScript`
-  - **Scripting & Tools:** `Bash`, `Git`
-  - **Embedded:** STM32 (ARM Cortex), PIC24, UART/SPI/I2C
-  - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Real-Time Systems
+- 💬 Ask me about **embedded systems (I just bought a STM32 after this semester's embedded intro class) to get more hands-on with industry-level microcontroller work**
 
-- 👯 **I’m looking to collaborate on ...**
-  - Projects that look to create meaningful solutions — message me if you want to work on something together!
-  - Open source embedded software or hardware abstraction layers.
+- 📫 How to reach me **ebadrehman99@gmail.com**
 
-- 📫 **How to reach me:**
-  - [LinkedIn](https://www.linkedin.com/in/rehmane)
-  - [Email](mailto:ebadrehman99@gmail.com)
+- 📄 Know about my experiences [ebad.tech/resume](ebad.tech/resume)
 
----
+- ⚡ Fun fact **I train jiu jitsu now and then (not that good)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<a href="https://twitter.com/ebadr761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebadr761" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rehmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmane" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ebadr761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ebadr761" height="30" width="40" /></a>
+<a href="https://discord.gg/ebadr761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ebadr761" height="30" width="40" /></a>
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-Hardware-important?style=for-the-badge" />
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
