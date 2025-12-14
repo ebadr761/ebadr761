@@ -1,29 +1,64 @@
-<h1 align="center">Hi 👋, I'm Ebad ur Rehman</h1>
-<h3 align="center">A passionate software engineering student from Calgary, AB</h3>
+## Hi there 👋 I'm Ebad ur Rehman
 
-- 🔭 I’m currently working on [a ML-trained FightMetrics application used by athletes to hone their skills and identify weaknesses in training](github.com/ebadr761/mma-tracker)
+### 🚀 Software Engineering Student | Embedded Systems & OOP | Calgary, AB
 
-- 🌱 I’m currently learning **TypeScript in order to improve upon my portfolio website**
+I am an engineering student with a focus on **Systems Programming**, **ML Applications**, and **Object-Oriented Design**.
 
-- 👯 I’m looking to collaborate on **any sort of meaningful embedded, system-oriented or OOP-based work — message me if you want to work together!**
+I am actively seeking **Software Engineering Internships for Summer 2026**.
 
-- 👨‍💻 All of my projects are available at [ebad.tech](ebad.tech)
+- 🔭 **I’m currently working on ...**
+  - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
+  - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
 
-- 💬 Ask me about **embedded systems (I just bought a STM32 after this semester's embedded intro class) to get more hands-on with industry-level microcontroller work**
+- 👨‍💻 **Portfolio & Resume:**
+  - View my projects: [**ebad.tech**](https://ebad.tech)
+  - Read my Resume: [**ebad.tech/resume**](https://ebad.tech/resume)
 
-- 📫 How to reach me **ebadrehman99@gmail.com**
+- 🌱 **I’m currently learning ...**
+  - **TypeScript** and **React** to modernize my portfolio website.
+  - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
 
-- 📄 Know about my experiences [ebad.tech/resume](ebad.tech/resume)
+- 🛠 **My Technical Stack**
+  - **Languages:** `C++`, `Java`, `C`, `Python`, `C#`, `TypeScript`
+  - **Embedded:** STM32 (ARM Cortex), PIC24F16KA101, UART/SPI/I2C/UWM
+  - **Web & Cloud:** React, Node.js, AWS, MongoDB, SQL (PostgreSQL/MySQL)
+  - **Data & ML:** Pandas, Scikit-Learn
+  - **Tools:** Git, Linux, Bash
 
-- ⚡ Fun fact **I train jiu jitsu now and then (not that good)**
+- 👯 **I’m looking to collaborate on ...**
+  - Projects involving **Microcontrollers** or meaningful **OOP-based work**.
+  - Open source embedded software or hardware abstraction layers.
 
-<h3 align="left">Connect with me:</h3>
+- 💬 **Ask me about ...**
+  - **Embedded Systems:** I recently picked up an **STM32** to move beyond academic theory and get hands-on with industry-standard hardware.
+  - **FightMetrics:** How I used machine learning to analyze athletic performance data.
+
+- ⚡ **Fun fact:**
+  - I train **Jiu Jitsu** now and then (not that good yet, but I know how to tap out!). It teaches me the same patience I need for debugging race conditions.
+
+- 📫 **Connect with me:**
+  - [LinkedIn](https://www.linkedin.com/in/rehmane)
+  - [Email](mailto:ebadrehman99@gmail.com)
+
+---
 <p align="left">
-<a href="https://twitter.com/ebadr761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebadr761" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rehmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmane" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ebadr761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ebadr761" height="30" width="40" /></a>
-<a href="https://discord.gg/ebadr761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ebadr761" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
