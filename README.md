@@ -8,16 +8,17 @@ I am actively seeking **Software Engineering Internships for Summer 2026**.
 
 - 🔭 **I’m currently working on ...**
   - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
+  - Dripping my toes into **web development** by branching off from my academic exposure to JavaScript in order to showcase my work thus far.
   - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
 
 - 🛠 **My Technical Stack**
-  - **Core Languages:** `C++`, `Java`, `C`
-  - **Scripting & Tools:** `Python`, `Bash`, `Git`
+  - **Core Languages:** `C++`, `Java`, `C`, `Python`, `JavaScript`
+  - **Scripting & Tools:** `Bash`, `Git`
   - **Embedded:** STM32 (ARM Cortex), PIC24, UART/SPI/I2C
   - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Real-Time Systems
 
 - 👯 **I’m looking to collaborate on ...**
-  - Projects that require rigorous **Testing** and high-performance code.
+  - Projects that look to create meaningful solutions — message me if you want to work on something together!
   - Open source embedded software or hardware abstraction layers.
 
 - 📫 **How to reach me:**
