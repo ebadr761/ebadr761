@@ -9,11 +9,7 @@ I am actively seeking **Software Engineering Internships for Summer 2026**.
 - 🔭 **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
   - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
-
-- 👨‍💻 **Portfolio & Resume:**
-  - View my projects: [**ebad.tech**](https://ebad.tech)
-  - Read my Resume: [**ebad.tech/resume**](https://ebad.tech/resume)
-
+ 
 - 🌱 **I’m currently learning ...**
   - **TypeScript** and **React** to modernize my portfolio website.
   - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
@@ -24,10 +20,6 @@ I am actively seeking **Software Engineering Internships for Summer 2026**.
   - **Web & Cloud:** React, Node.js, AWS, MongoDB, SQL (PostgreSQL/MySQL)
   - **Data & ML:** Pandas, Scikit-Learn
   - **Tools:** Git, Linux, Bash
-  
-- 📫 **Connect with me:**
-  - [LinkedIn](https://www.linkedin.com/in/rehmane)
-  - [Email](mailto:ebadrehman99@gmail.com)
 
 ---
 <p align="left">
