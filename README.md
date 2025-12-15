@@ -24,18 +24,7 @@ I am actively seeking **Software Engineering Internships for Summer 2026**.
   - **Web & Cloud:** React, Node.js, AWS, MongoDB, SQL (PostgreSQL/MySQL)
   - **Data & ML:** Pandas, Scikit-Learn
   - **Tools:** Git, Linux, Bash
-
-- 👯 **I’m looking to collaborate on ...**
-  - Projects involving **Microcontrollers** or meaningful **OOP-based work**.
-  - Open source embedded software or hardware abstraction layers.
-
-- 💬 **Ask me about ...**
-  - **Embedded Systems:** I recently picked up an **STM32** to move beyond academic theory and get hands-on with industry-standard hardware.
-  - **FightMetrics:** How I used machine learning to analyze athletic performance data.
-
-- ⚡ **Fun fact:**
-  - I train **Jiu Jitsu** now and then (not that good yet, but I know how to tap out!). It teaches me the same patience I need for debugging race conditions.
-
+  
 - 📫 **Connect with me:**
   - [LinkedIn](https://www.linkedin.com/in/rehmane)
   - [Email](mailto:ebadrehman99@gmail.com)
