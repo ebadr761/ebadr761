@@ -17,7 +17,7 @@ I am actively seeking **Software Engineering Internships for Summer 2026**.
 - 🛠 **My Technical Stack**
   - **Languages:** `C++`, `Java`, `C`, `Python`, `C#`, `TypeScript`
   - **Embedded:** STM32 (ARM Cortex), PIC24F16KA101, UART/SPI/I2C/UWM
-  - **Web & Cloud:** React, Node.js, AWS, MongoDB, SQL (PostgreSQL/MySQL)
+  - **Web & Cloud:** React, Node.js, AWS, SQL (PostgreSQL/MySQL), NoSQL (MongoDB)
   - **Data & ML:** Pandas, Scikit-Learn
   - **Tools:** Git, Linux, Bash
 
