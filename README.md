@@ -11,9 +11,9 @@ I am actively seeking **Software Engineering Internships for Summer 2026**.
   - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
  
 - 🌱 **I’m currently learning ...**
-  - **TypeScript** and **React** to modernize my portfolio website.
+  - **TypeScript** and **React** to modernize my portfolio website and build my skills so that I can work better as a Developer for the Hoplon startup.
   - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
-  - I'm also studying for the AWS Solutions Architect - Associate certification... got ~2 weeks of studying to go as I plan to take the test before the end of January
+  - I'm also studying for the AWS Solutions Architect - Associate certification...
 
 - 🛠 **My Technical Stack**
   - **Languages:** `C++`, `Java`, `C`, `Python`, `C#`, `TypeScript`
