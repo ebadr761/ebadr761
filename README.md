@@ -1,14 +1,13 @@
 ## Hi there 👋 I'm Ebad ur Rehman
 
-### 🚀 Software Engineering Student | Embedded Systems & OOP | Calgary, AB
+### Software Engineering Student | Calgary, AB
 
-I am an engineering student with a focus on **Systems Programming**, **ML Applications**, and **Object-Oriented Design**.
-
-I am actively seeking **Software Engineering Internships for Summer 2026**.
+I am an engineering student with interest on **Embedded Systems**, **ML Applications**, and **anything else I end up finding enjoying to work on**!
 
 - 🔭 **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
   - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
+  - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I use Convex + TypeScript as a backend dev)
  
 - 🌱 **I’m currently learning ...**
   - **TypeScript** and **React** to modernize my portfolio website and build my skills so that I can work better as a Developer for the Hoplon startup.
