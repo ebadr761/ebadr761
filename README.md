@@ -2,11 +2,11 @@
 
 ### Software Engineering Student | Calgary, AB
 
-I am an engineering student with interest on **Embedded Systems**, **ML Applications**, and **anything else I end up enjoying working on**!
+I am an engineering student with interest on **Embedded Systems**, **ML Applications**, and **anything else I end up enjoying**!
 
 - 🔭 **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
-  - Designing a bare-metal **Embedded System** on the **STM32** platform to master driver development.
+  - Designing a bare-metal **Embedded System** on the **STM32** platform in my attempt to build a velocity-based training device.
   - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I use Convex + TypeScript as a backend dev)
  
 - 🌱 **I’m currently learning ...**
@@ -15,7 +15,7 @@ I am an engineering student with interest on **Embedded Systems**, **ML Applicat
   - I'm also studying for the AWS Solutions Architect - Associate certification...
 
 - 🛠 **My Technical Stack**
-  - **Languages:** `C++`, `Java`, `C`, `Python`, `C#`, `TypeScript`
+  - **Languages:** `C++`, `Java`, `C`, `Python`, `TypeScript`
   - **Embedded:** STM32 (ARM Cortex), PIC24F16KA101, UART/SPI/I2C/UWM
   - **Web & Cloud:** React, Node.js, AWS, SQL (PostgreSQL/MySQL), NoSQL (MongoDB)
   - **Data & ML:** Pandas, Scikit-Learn
