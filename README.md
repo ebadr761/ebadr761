@@ -7,7 +7,7 @@ I am an engineering student with interest on **Embedded Systems**, **ML Applicat
 - 🔭 **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
   - Designing a bare-metal **Embedded System** on the **STM32** platform in my attempt to build a velocity-based training device.
-  - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I use Convex + TypeScript as a backend dev)
+  - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I'm on the Backend team where I use Convex + TypeScript)
  
 - 🌱 **I’m currently learning ...**
   - **TypeScript** and **React** to modernize my portfolio website and build my skills so that I can work better as a Developer for the Hoplon startup.
