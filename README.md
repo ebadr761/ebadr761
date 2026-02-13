@@ -6,7 +6,7 @@ I am an engineering student with interest on **Embedded Systems**, **ML Applicat
 
 - 🔭 **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
-  - Designing a bare-metal Embedded System on the STM32 platform in my attempt to build a **[Velocity-based training device](https://github.com/ebadr761/DynamoLift-STM32)** which is an extension of the **[Kinematics Engine](https://github.com/ebadr761/STM32-Kinematics-Engine)** I built using a MotionTracking accelerometer.
+  - Designing a bare-metal Embedded System on the STM32 platform in my attempt to build a **[Velocity-based training device](https://github.com/ebadr761/DynamoLift-STM32)** which is an extension of the **[Kinematics Engine](https://github.com/ebadr761/STM32-Kinematics-Engine)** I built using a motion-tracking accelerometer.
   - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I'm on the Backend team where I use Convex + TypeScript)
  
 - 🌱 **I’m currently learning ...**
