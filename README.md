@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Calgary, AB
 
-I am an engineering student with interest on **Embedded Systems**, **ML Applications**, and **anything else I end up enjoying**!
+I am an engineering student with interest on **Embedded Systems**, **ML Applications**, and building cool things!
 
 - 🔭 **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
