@@ -1,4 +1,4 @@
-## Hi there I'm Ebad ur Rehman
+## Hi there, I'm Ebad ur Rehman
 
 ### Software Engineering Student | Calgary, AB
 
