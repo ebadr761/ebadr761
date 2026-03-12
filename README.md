@@ -1,6 +1,6 @@
 ## Hi there, I'm Ebad ur Rehman
 
-I am an software engineering student at the University of Calgary. I enjoy working on **full-stack** and **ML applications**, and even some embedded personal projects!
+I am a software engineering student at the University of Calgary. I enjoy working on **full-stack** and **ML applications**, and even some embedded personal projects!
 
 - **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** Which is an ML-trained application used by athletes to hone their skills and identify weaknesses in training (TypeScript/Python/Scikit-Learn).
@@ -8,12 +8,13 @@ I am an software engineering student at the University of Calgary. I enjoy worki
   - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I'm on the Backend team where I use Convex + TypeScript) - this is a pre-seed startup, more to come later
  
 - **I’m currently learning ...**
-  - **TypeScript** and **React** as a developer for the Hoplon startup and other personal projects such as the [mma-tracker](https://mma-tracker.netlify.app/) I've been working on for about a year.
+  - **TypeScript** and **React** as a developer for the Hoplon startup and other personal projects such as the [mma-tracker](https://mma-tracker.netlify.app/) I've been working on for the past year.
   - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
   - I'm also studying for the AWS Solutions Architect - Associate certification...
 
 ---
 <p align="left">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
