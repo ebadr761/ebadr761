@@ -2,24 +2,17 @@
 
 ### Software Engineering Student | Calgary, AB
 
-I am an engineering student that enjoys working on **Embedded Systems**, **ML Applications**, and building cool things!
+I am an engineering student that enjoys working on **full-stack development**, **ML applications**, and a little bit of embedded personal projects!
 
-- 🔭 **I’m currently working on ...**
+- **I’m currently working on ...**
   - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
   - Designing a bare-metal Embedded System on the STM32 platform in my attempt to build a **[Velocity-based training device](https://github.com/ebadr761/DynamoLift-STM32)** which is an extension of the **[Kinematics Engine](https://github.com/ebadr761/STM32-Kinematics-Engine)** I built using a motion-tracking accelerometer.
   - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I'm on the Backend team where I use Convex + TypeScript) - this is a pre-seed startup, more to come later
  
-- 🌱 **I’m currently learning ...**
+- **I’m currently learning ...**
   - **TypeScript** and **React** to modernize my portfolio website and build my skills so that I can work better as a developer for the Hoplon startup.
   - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
-  - I'm also studying for the AWS Solutions Architect - Associate certification... (on and off)
-
-- 🛠 **My Technical Stack**
-  - **Languages:** `C++`, `Java`, `C`, `Python`, `TypeScript`
-  - **Embedded:** STM32 (ARM Cortex), PIC24F16KA101, UART/SPI/I2C/UWM
-  - **Web & Cloud:** React, Node.js, AWS, SQL (PostgreSQL/MySQL), NoSQL (MongoDB)
-  - **Data & ML:** Pandas, Scikit-Learn
-  - **Tools:** Git, Linux, Bash
+  - I'm also studying for the AWS Solutions Architect - Associate certification...
 
 ---
 <p align="left">
