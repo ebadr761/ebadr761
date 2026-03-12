@@ -1,16 +1,14 @@
 ## Hi there, I'm Ebad ur Rehman
 
-### Software Engineering Student | Calgary, AB
-
-I am an engineering student that enjoys working on **full-stack development**, **ML applications**, and a little bit of embedded personal projects!
+I am an software engineering student at the University of Calgary. I enjoy working on **full-stack** and **ML applications**, and even some embedded personal projects!
 
 - **I’m currently working on ...**
-  - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** An ML-trained application used by athletes to hone their skills and identify weaknesses in training (Python/Scikit-Learn).
+  - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** Which is an ML-trained application used by athletes to hone their skills and identify weaknesses in training (TypeScript/Python/Scikit-Learn).
   - Designing a bare-metal Embedded System on the STM32 platform in my attempt to build a **[Velocity-based training device](https://github.com/ebadr761/DynamoLift-STM32)** which is an extension of the **[Kinematics Engine](https://github.com/ebadr761/STM32-Kinematics-Engine)** I built using a motion-tracking accelerometer.
   - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I'm on the Backend team where I use Convex + TypeScript) - this is a pre-seed startup, more to come later
  
 - **I’m currently learning ...**
-  - **TypeScript** and **React** to modernize my portfolio website and build my skills so that I can work better as a developer for the Hoplon startup.
+  - **TypeScript** and **React** as a developer for the Hoplon startup and other personal projects such as the [mma-tracker](https://mma-tracker.netlify.app/) I've been working on for about a year.
   - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
   - I'm also studying for the AWS Solutions Architect - Associate certification...
 
