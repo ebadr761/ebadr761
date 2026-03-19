@@ -1,18 +1,64 @@
-## Hi there, I'm Ebad ur Rehman
+## Hi, I'm Ebad ur Rehman
 
-I am a software engineering student at the University of Calgary. I enjoy working on **full-stack** and **ML applications**, and even some embedded personal projects!
+I build systems at the intersection of **software, hardware, and human performance**.
 
-- **I’m currently working on ...**
-  - **[MMA-Tracker](https://github.com/ebadr761/mma-tracker):** Which is an ML-trained application used by athletes to hone their skills and identify weaknesses in training (TypeScript/Python/Scikit-Learn).
-  - Designing a bare-metal Embedded System on the STM32 platform in my attempt to build a **[Velocity-based training device](https://github.com/ebadr761/DynamoLift-STM32)** which is an extension of the **[Kinematics Engine](https://github.com/ebadr761/STM32-Kinematics-Engine)** I built using a motion-tracking accelerometer.
-  - **Hoplon** which is a startup platform designed to streamline operations for industries heavily dependent on on-site work like construction, logistics, field services. (I'm on the Backend team where I use Convex + TypeScript) - this is a pre-seed startup, more to come later
- 
-- **I’m currently learning ...**
-  - **TypeScript** and **React** as a developer for the Hoplon startup and other personal projects such as the [mma-tracker](https://mma-tracker.netlify.app/) I've been working on for the past year.
-  - Deepening my understanding of **Operating Systems** (Kernel structures, Concurrency, and Memory Management).
-  - I'm also studying for the AWS Solutions Architect - Associate certification...
+I'm a Software Engineering student at the University of Calgary focused on creating tools that turn real-world movement into actionable data which ranges from embedded systems to ML-powered applications.
 
 ---
+
+## What I'm Building
+
+- 🥊 **MMA-Tracker**  
+  → Turning fight training into measurable insights using ML  
+  Tech: TypeScript, Python, Scikit-Learn  
+  https://github.com/ebadr761/mma-tracker
+
+- 🏋️ **DynamoLift (STM32)**  
+  → A velocity-based training device built on bare-metal embedded systems  
+  https://github.com/ebadr761/DynamoLift-STM32  
+
+- ⚙️ **Kinematics Engine**  
+  → Motion tracking system using accelerometer data (foundation for real-world movement analysis)  
+  https://github.com/ebadr761/STM32-Kinematics-Engine  
+
+- 🏗️ **Hoplon (Startup)**  
+  → Backend development for a platform streamlining operations in field-heavy industries  
+  Tech: TypeScript, Convex  
+
+---
+
+## Currently Leveling Up
+
+- **TypeScript + React** → building production-ready systems at Hoplon + personal apps  
+- **Operating Systems** → understanding concurrency, memory, and kernel design  
+- **AWS** → working toward Solutions Architect - Associate  
+
+---
+
+## How I Think
+
+- I like building **from the metal up**—understanding systems from hardware to UI  
+- I prefer projects with **real-world feedback loops** (movement, sensors, users)  
+- I value **clarity over complexity** in system design  
+
+---
+
+## Currently Obsessed With
+
+- Embedded systems + real-time performance  
+- Applying ML to physical training data  
+- Designing systems that give **instant feedback to users**  
+
+---
+
+## What I Want to Build Next
+
+- Edge ML systems running directly on embedded devices  
+- Real-time athlete feedback tools  
+- Software that bridges **biomechanics + AI**  
+
+---
+
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
