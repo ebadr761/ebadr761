@@ -5,9 +5,7 @@ I build systems at the intersection of **software, hardware, and human performan
 I'm a Software Engineering student at the University of Calgary focused on creating tools that turn real-world movement into actionable data which ranges from embedded systems to ML-powered applications.
 
 ---
-
-## What I'm Building
-
+What I'm currently building: 
 - 🥊 **MMA-Tracker**  
   → Turning fight training into measurable insights using ML  
   Tech: TypeScript, Python, Scikit-Learn  
@@ -25,34 +23,7 @@ I'm a Software Engineering student at the University of Calgary focused on creat
   → Backend development for a platform streamlining operations in field-heavy industries  
   Tech: TypeScript, Convex  
 
----
-
-## Currently Leveling Up
-
-- **TypeScript + React** → building production-ready systems at Hoplon + personal apps  
-- **Operating Systems** → understanding concurrency, memory, and kernel design  
-- **AWS** → working toward Solutions Architect - Associate  
-
----
-
-## How I Think
-
-- I like building **from the metal up**—understanding systems from hardware to UI  
-- I prefer projects with **real-world feedback loops** (movement, sensors, users)  
-- I value **clarity over complexity** in system design  
-
----
-
-## Currently Obsessed With
-
-- Embedded systems + real-time performance  
-- Applying ML to physical training data  
-- Designing systems that give **instant feedback to users**  
-
----
-
-## What I Want to Build Next
-
+My goals / ambitions related to what I want to build next:
 - Edge ML systems running directly on embedded devices  
 - Real-time athlete feedback tools  
 - Software that bridges **biomechanics + AI**  
