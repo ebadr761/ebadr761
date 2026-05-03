@@ -2,26 +2,27 @@
 
 I build systems at the intersection of **software, hardware, and human performance**.
 
-I'm a Software Engineering student at the University of Calgary focused on creating tools that turn real-world movement into actionable data which ranges from embedded systems to ML-powered applications.
+I'm a Software Engineering student at the University of Calgary focused on turning real-world movement into actionable data. My work spans from embedded IoT systems to ML-powered applications such as my MMA workout tracker. Currently, I'm an SDE Intern at Lightbulb Analytics (AssetWorks). I'm building high-scale telematics solutions for vehicle fleets, working on an event-driven architecture that processes vehicle data via MQTT, Azure IoT Hub, and Apache Kafka.
+
+My current focus and what I'm currently learning:
+- Backend: Processing real-time streams with Kafka and managing data in MongoDB.
+- Frontend/Mobile: Architecting interfaces for fleet management using React, Node.js (Express/Fastify), and Expo (React Native).
+- State & Forms: Leveraging React Query and React Hook Form to build responsive, data-heavy dashboards.
 
 ---
-What I'm currently building: 
+What I'm building: 
 - 🥊 **MMA-Tracker**  
   → Turning fight training into measurable insights using ML  
   Tech: TypeScript, Python, Scikit-Learn  
   https://github.com/ebadr761/mma-tracker
 
-- 🏋️ **DynamoLift (STM32)**  
+- 🏋️ **DynamoLift (using STM32)**  
   → A velocity-based training device built on bare-metal embedded systems  
   https://github.com/ebadr761/DynamoLift-STM32  
 
 - ⚙️ **Kinematics Engine**  
   → Motion tracking system using accelerometer data (foundation for real-world movement analysis)  
   https://github.com/ebadr761/STM32-Kinematics-Engine  
-
-- 🏗️ **Hoplon (Startup)**  
-  → Backend development for a platform streamlining operations in field-heavy industries  
-  Tech: TypeScript, Convex  
 
 My goals / ambitions related to what I want to build next:
 - Edge ML systems running directly on embedded devices  
